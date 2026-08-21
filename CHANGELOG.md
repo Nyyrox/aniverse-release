@@ -2,6 +2,28 @@
 
 All notable Aniverse APK changes are documented here. This changelog also helps users discover Aniverse when searching for watch anime online, Aniverse anime, anime streaming APK, multi-audio anime app, Hindi dubbed anime app, manga reader APK, and Android anime player with subtitles.
 
+## 2.1.1 - 2026-08-21
+
+### Added
+
+- Added Live Channels support.
+- Added metadata-driven live channel updates and UI animations when channel metadata changes.
+
+### Improved
+
+- Optimized the live channel metadata flow for smoother and more efficient updates.
+- Improved overall live channel working and UI responsiveness.
+- Refined animations and transitions triggered by metadata changes.
+
+### Fixed
+
+- Fixed several issues discovered while integrating live channels and the updated metadata flow.
+- Improved stability around metadata updates and related UI changes.
+
+### Note
+
+- This release contains several changes under the hood, so minor bugs may still occur in some edge cases. Additional fixes can be shipped in future updates based on testing and user reports.
+
 ## 1.1.8 - 2026-08-03
 
 ### Added
