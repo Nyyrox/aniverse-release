@@ -1,110 +1,143 @@
-# Aniverse APK - Watch Anime Online
+<div align="center">
 
-Aniverse is an Android anime streaming app for watching anime online with multi-audio playback, Hindi dubbed anime support, subtitles, manga reading, anime schedules, watchlists, downloads, offline playback, live channels, and a custom CinePlayer interface.
+# ✦ ANIVERSE
 
-This is the official Aniverse release repository for APK downloads, changelogs, screenshots, and update notes. If you are searching for Aniverse anime, Aniverse APK, watch anime online Android app, anime streaming APK, manga reader APK, or multi-audio anime player, start here.
+### **Your anime. Your way.**
 
-[Download the latest Aniverse APK](https://github.com/Nyyrox/aniverse-release/releases/latest)
+*A modern Android anime experience built for streaming, discovery, manga, live channels, and more.*
 
-## Quick Links
+<p>
+  <a href="https://github.com/Nyyrox/aniverse-release/releases/latest"><img src="https://img.shields.io/github/v/release/Nyyrox/aniverse-release?style=for-the-badge&label=LATEST&color=58A6FF" alt="Latest Release"></a>
+  <a href="https://github.com/Nyyrox/aniverse-release/releases"><img src="https://img.shields.io/github/downloads/Nyyrox/aniverse-release/total?style=for-the-badge&label=DOWNLOADS&color=8B5CF6" alt="Downloads"></a>
+  <a href="https://github.com/Nyyrox/aniverse-release/stargazers"><img src="https://img.shields.io/github/stars/Nyyrox/aniverse-release?style=for-the-badge&color=F59E0B" alt="Stars"></a>
+  <a href="https://github.com/Nyyrox/aniverse-release/blob/main/CHANGELOG.md"><img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge" alt="Active"></a>
+</p>
 
-- Latest APK release: https://github.com/Nyyrox/aniverse-release/releases/latest
-- Full changelog: [CHANGELOG.md](CHANGELOG.md)
-- Android APK source: https://github.com/Nyyrox/aniverse--apk
-- Web app source: https://github.com/Nyyrox/Aniverse
+<p>
+  <a href="https://github.com/Nyyrox/aniverse-release/releases/latest"><strong>↓ Download Latest APK</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/Nyyrox/aniverse-release/releases">All Releases</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="CHANGELOG.md">Changelog</a>
+</p>
 
-## Why Aniverse?
+</div>
 
-Aniverse is designed like a modern OTT anime app, with fast browsing, clean dark UI, swipeable hero cards, watch progress, manga reading, live channels, and a player made for anime episodes. It brings anime discovery, online playback, subtitles, downloaded content, profile sync, community, and watch together features into one Android experience.
+---
 
-## Main Features
+<div align="center">
 
-### Watch Anime Online
+> **ANIVERSE** is an Android anime streaming app with multi-audio playback, Hindi dubbed anime support, subtitles, manga, schedules, watchlists, downloads, offline playback, live channels, and a custom CinePlayer interface.
 
-- Stream anime episodes with original audio, dubbed audio, subtitles, and multi-audio sources.
-- Find trending anime, top anime, new anime, anime movies, schedules, and recommendations.
-- Continue Watching saves episode number, timestamp, poster, season, and progress.
-- Smart stream fallback changes server when playback fails or takes too long.
-- Long anime episode lists are supported for shows with hundreds or thousands of episodes.
+</div>
 
-### Live Channels
+## ✦ What is Aniverse?
+
+Aniverse is designed around a modern OTT-style experience: fast discovery, clean dark UI, expressive motion, detailed anime pages, smooth playback, and features that keep your watch history connected across the app.
+
+It brings **anime discovery, online playback, subtitles, manga, downloads, live channels, profiles, community, and Watch Together** into one Android experience.
+
+## ✦ Quick Links
+
+| | Resource |
+|---|---|
+| 📦 | **[Latest APK Release](https://github.com/Nyyrox/aniverse-release/releases/latest)** |
+| 📝 | **[Full Changelog](CHANGELOG.md)** |
+| 📱 | **[Android APK Source](https://github.com/Nyyrox/aniverse--apk)** |
+| 🌐 | **[Web App Source](https://github.com/Nyyrox/Aniverse)** |
+
+## ✦ Features
+
+### 🎬 Watch Anime
+
+- Original, dubbed, subtitle, and multi-audio playback.
+- Trending, top, new, movie, schedule, and recommendation sections.
+- Continue Watching remembers episode, timestamp, poster, season, and progress.
+- Smart stream fallback for failed or slow playback.
+- Supports very long episode lists with hundreds or thousands of episodes.
+
+### 📡 Live Channels
 
 - Watch supported live channels directly inside Aniverse.
-- Live channel metadata is handled through the optimized metadata flow.
-- Metadata changes are reflected with smooth UI animations.
+- Optimized metadata flow for channel information.
+- Smooth animations when channel metadata changes.
 - Channel playback and metadata updates are integrated into the latest release flow.
 
-### Multi-Audio Anime Player
+### 🎧 CinePlayer
 
-- CinePlayer supports subtitles, quality selection, language preferences, gestures, fullscreen, casting, picture-in-picture, and offline playback.
-- Last selected server, subtitle, audio language, playback speed, and quality can be remembered.
-- AniSkip intro and outro support highlights skip segments and can auto skip when enabled.
-- Embedded subtitles, uploaded subtitle files, online subtitles, and captured subtitles are handled in one player.
+- Subtitle and quality selection.
+- Audio-language preferences.
+- Gestures, fullscreen, casting, picture-in-picture, and offline playback.
+- Remembers server, subtitle, audio language, playback speed, and quality preferences.
+- AniSkip intro/outro highlighting and optional automatic skipping.
+- Handles embedded, uploaded, online, and captured subtitle tracks.
 
-### Manga Reader
+### 📖 Manga Reader
 
-- Manga home, manga details, manga search, bookmarks, and continue reading.
-- Resume reading from the exact chapter and page where you stopped.
-- Reader preferences for tap zones, chapter sorting, swipe mode, page jump, and local caching.
-- Optimized for long manga and manhwa chapters with many pages.
+- Manga home, search, details, bookmarks, and Continue Reading.
+- Resume from the exact chapter and page.
+- Tap zones, chapter sorting, swipe mode, page jump, and local caching.
+- Optimized for long manga and manhwa chapters.
 
-### Downloads And Offline Playback
+### ⬇️ Downloads & Offline
 
-- Downloaded videos and local files can be played from the offline player area.
-- Recent local video history stores timestamps for continue watching.
-- Downloaded anime episodes appear in the downloads/library experience.
+- Downloaded videos and local files through the offline player.
+- Local playback history with timestamps.
+- Downloaded episodes integrated into the library experience.
 
-### Account, Watchlist, And Community
+### 👥 Community & Accounts
 
-- Supabase-backed profiles, watchlists, watch history, comments, and community features.
-- Watchlist supports anime and manga sections.
-- Community chat, reactions, replies, profile pictures, admin moderation, and media handling.
-- Watch Together rooms allow shared viewing and chat.
+- Supabase-backed profiles, watchlists, history, comments, and community features.
+- Anime and manga watchlist sections.
+- Chat, reactions, replies, profile pictures, moderation, and media handling.
+- Watch Together rooms with synchronized viewing and chat.
 
-### Android And TV-Friendly UI
+### 📱 Android & TV UI
 
-- Clean sidebar navigation for larger screens and TV-style use.
-- Bottom dock and mobile navigation for phones.
-- Theme customization, refresh rate preferences, reduced motion, and profile personalization.
+- Sidebar navigation for larger screens and TV-style layouts.
+- Bottom navigation for phones.
+- Theme customization, refresh-rate preferences, reduced motion, and profile personalization.
 
-## Screenshots
+## ✦ Screenshots
 
-| Home | Hero Banner | Player | Manga Reader |
-| --- | --- | --- | --- |
-| ![Aniverse home page anime streaming app](screenshots/home.jpg) | ![Aniverse anime hero banner](screenshots/hero-banner.jpg) | ![Aniverse CinePlayer anime player](screenshots/player.jpg) | ![Aniverse manga reader](screenshots/manga-reader.jpg) |
+| Home | Hero Banner |
+|:---:|:---:|
+| ![Aniverse Home](screenshots/home.jpg) | ![Aniverse Hero Banner](screenshots/hero-banner.jpg) |
 
-| Browse | Watchlist | Profile | Sidebar |
-| --- | --- | --- | --- |
-| ![Aniverse browse anime genres](screenshots/browse.jpg) | ![Aniverse anime watchlist](screenshots/watchlist.jpg) | ![Aniverse profile themes](screenshots/profile-v2.jpg) | ![Aniverse Android TV sidebar navigation](screenshots/sidebar.jpg) |
+| CinePlayer | Manga Reader |
+|:---:|:---:|
+| ![Aniverse CinePlayer](screenshots/player.jpg) | ![Aniverse Manga Reader](screenshots/manga-reader.jpg) |
 
-## Download And Install Aniverse APK
+| Browse | Watchlist |
+|:---:|:---:|
+| ![Aniverse Browse](screenshots/browse.jpg) | ![Aniverse Watchlist](screenshots/watchlist.jpg) |
 
-1. Open the latest release: https://github.com/Nyyrox/aniverse-release/releases/latest
+| Profile | Sidebar |
+|:---:|:---:|
+| ![Aniverse Profile](screenshots/profile-v2.jpg) | ![Aniverse Sidebar](screenshots/sidebar.jpg) |
+
+## ✦ Install
+
+1. Open **[the latest release](https://github.com/Nyyrox/aniverse-release/releases/latest)**.
 2. Download the newest Aniverse APK.
 3. Install it on Android. If prompted, allow installation from your browser or file manager.
 4. Open Aniverse and sign in to sync profile, watchlist, comments, and watch history.
 
-The app includes update checking, so older APK versions can show an update notification when a newer release is available.
+> **Update system:** Aniverse includes update checking, so older APK versions can notify you when a newer release is available.
 
-## Popular Searches
+## ✦ Latest Release
 
-This release page is relevant for these searches:
+<div align="center">
 
-- watch anime online
-- Aniverse anime
-- Aniverse APK download
-- anime streaming APK for Android
-- Hindi dubbed anime app
-- multi audio anime app
-- manga reader APK
-- anime schedule app
-- anime watchlist app
-- CinePlayer anime player
-- anime download app
-- Android anime player with subtitles
-- live anime channels app
+### `v2.1.1`
 
-## FAQ
+**Live Channels · Optimized Metadata · Smoother Motion · Bug Fixes**
+
+[**View Release →**](https://github.com/Nyyrox/aniverse-release/releases/latest)
+
+</div>
+
+## ✦ FAQ
 
 ### Is Aniverse an app to watch anime online?
 
@@ -120,22 +153,26 @@ Yes. Continue Watching stores anime episode progress and manga reading progress.
 
 ### Does Aniverse support subtitles?
 
-Yes. CinePlayer supports online subtitles, uploaded subtitles, embedded subtitle tracks, captured subtitle tracks, subtitle styling, and language preference handling.
+Yes. CinePlayer supports online subtitles, uploaded subtitles, embedded subtitle tracks, captured subtitle tracks, subtitle styling, and language preferences.
 
 ### Does Aniverse include manga?
 
-Yes. Aniverse includes manga browsing, search, details, bookmarks, continue reading, and a customizable manga reader.
+Yes. Aniverse includes manga browsing, search, details, bookmarks, Continue Reading, and a customizable manga reader.
 
 ### Can Aniverse work on larger Android screens?
 
 Yes. Aniverse includes sidebar navigation and TV-style layout handling for larger screens, tablets, and Android devices used with remote-style navigation.
 
-## Latest Version
+## ✦ Discover Aniverse
 
-Latest documented release: `v2.1.1`
+<div align="center">
 
-Read the full update history in [CHANGELOG.md](CHANGELOG.md).
+**Watch. Discover. Read. Play.**
 
-## Disclaimer
+[Download APK](https://github.com/Nyyrox/aniverse-release/releases/latest) · [View Changelog](CHANGELOG.md) · [Android Source](https://github.com/Nyyrox/aniverse--apk) · [Web Source](https://github.com/Nyyrox/Aniverse)
+
+</div>
+
+## ✦ Disclaimer
 
 Aniverse is provided as a personal-use Android APK release. Users are responsible for following the laws, rights, and content-provider terms that apply in their region.
