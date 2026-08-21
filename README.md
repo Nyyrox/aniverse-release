@@ -1,6 +1,6 @@
 # Aniverse APK - Watch Anime Online
 
-Aniverse is an Android anime streaming app for watching anime online with multi-audio playback, Hindi dubbed anime support, subtitles, manga reading, anime schedules, watchlists, downloads, offline playback, and a custom CinePlayer interface.
+Aniverse is an Android anime streaming app for watching anime online with multi-audio playback, Hindi dubbed anime support, subtitles, manga reading, anime schedules, watchlists, downloads, offline playback, live channels, and a custom CinePlayer interface.
 
 This is the official Aniverse release repository for APK downloads, changelogs, screenshots, and update notes. If you are searching for Aniverse anime, Aniverse APK, watch anime online Android app, anime streaming APK, manga reader APK, or multi-audio anime player, start here.
 
@@ -15,7 +15,7 @@ This is the official Aniverse release repository for APK downloads, changelogs, 
 
 ## Why Aniverse?
 
-Aniverse is designed like a modern OTT anime app, with fast browsing, clean dark UI, swipeable hero cards, watch progress, manga reading, and a player made for anime episodes. It brings anime discovery, online playback, subtitles, downloaded content, profile sync, community, and watch together features into one Android experience.
+Aniverse is designed like a modern OTT anime app, with fast browsing, clean dark UI, swipeable hero cards, watch progress, manga reading, live channels, and a player made for anime episodes. It brings anime discovery, online playback, subtitles, downloaded content, profile sync, community, and watch together features into one Android experience.
 
 ## Main Features
 
@@ -26,6 +26,13 @@ Aniverse is designed like a modern OTT anime app, with fast browsing, clean dark
 - Continue Watching saves episode number, timestamp, poster, season, and progress.
 - Smart stream fallback changes server when playback fails or takes too long.
 - Long anime episode lists are supported for shows with hundreds or thousands of episodes.
+
+### Live Channels
+
+- Watch supported live channels directly inside Aniverse.
+- Live channel metadata is handled through the optimized metadata flow.
+- Metadata changes are reflected with smooth UI animations.
+- Channel playback and metadata updates are integrated into the latest release flow.
 
 ### Multi-Audio Anime Player
 
@@ -95,12 +102,13 @@ This release page is relevant for these searches:
 - CinePlayer anime player
 - anime download app
 - Android anime player with subtitles
+- live anime channels app
 
 ## FAQ
 
 ### Is Aniverse an app to watch anime online?
 
-Yes. Aniverse is an Android APK for watching anime online with multi-audio streams, subtitles, watch history, anime schedules, manga, and a custom anime player.
+Yes. Aniverse is an Android APK for watching anime online with multi-audio streams, subtitles, watch history, anime schedules, manga, live channels, and a custom anime player.
 
 ### Does Aniverse support Hindi dubbed anime?
 
@@ -124,7 +132,7 @@ Yes. Aniverse includes sidebar navigation and TV-style layout handling for large
 
 ## Latest Version
 
-Latest documented release: `v1.1.8`
+Latest documented release: `v2.1.1`
 
 Read the full update history in [CHANGELOG.md](CHANGELOG.md).
 
