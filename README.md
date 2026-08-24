@@ -2,24 +2,24 @@
 
 # ✦ ANIVERSE
 
-### **Your anime. Your way.**
+### **Your anime. Your way. Now, so much more.**
 
-*An expanded Android streaming experience for anime, movies, shows, live channels, manga, and more.*
+A premium Android streaming experience for **anime, movies, shows, live channels, manga, and more.**
 
-<p>
-  <a href="https://github.com/Nyyrox/aniverse-release/releases/latest"><img src="https://img.shields.io/github/v/release/Nyyrox/aniverse-release?style=for-the-badge&label=LATEST&color=58A6FF" alt="Latest Release"></a>
-  <a href="https://github.com/Nyyrox/aniverse-release/releases"><img src="https://img.shields.io/github/downloads/Nyyrox/aniverse-release/total?style=for-the-badge&label=DOWNLOADS&color=8B5CF6" alt="Downloads"></a>
-  <a href="https://github.com/Nyyrox/aniverse-release/stargazers"><img src="https://img.shields.io/github/stars/Nyyrox/aniverse-release?style=for-the-badge&color=F59E0B" alt="Stars"></a>
-  <a href="https://github.com/Nyyrox/aniverse-release/blob/main/CHANGELOG.md"><img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge" alt="Active"></a>
-</p>
+<br>
 
-<p>
-  <a href="https://github.com/Nyyrox/aniverse-release/releases/latest"><strong>↓ Download Latest APK</strong></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/Nyyrox/aniverse-release/releases">All Releases</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="CHANGELOG.md">Changelog</a>
-</p>
+[![Latest Release](https://img.shields.io/github/v/release/Nyyrox/aniverse-release?style=for-the-badge&label=LATEST&color=58A6FF)](https://github.com/Nyyrox/aniverse-release/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Nyyrox/aniverse-release/total?style=for-the-badge&label=DOWNLOADS&color=8B5CF6)](https://github.com/Nyyrox/aniverse-release/releases)
+[![Stars](https://img.shields.io/github/stars/Nyyrox/aniverse-release?style=for-the-badge&color=F59E0B)](https://github.com/Nyyrox/aniverse-release/stargazers)
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge)](https://github.com/Nyyrox/aniverse-release)
+
+<br>
+
+### **[ ↓  DOWNLOAD ANIVERSE 2.2.0  ](https://github.com/Nyyrox/aniverse-release/releases/latest)**
+
+`LATEST • 2.2.0 • ANDROID`
+
+<br><br>
 
 </div>
 
@@ -27,142 +27,291 @@
 
 <div align="center">
 
-> **ANIVERSE 2.2.0** expands beyond anime with a completely separate section for watching more content, alongside high-speed streaming and downloads.
+## ◈ THE BIGGEST ANIVERSE UPDATE YET
+
+**Anime was only the beginning.**
+
+Aniverse 2.2.0 introduces a completely separate **Everything** experience — giving you a dedicated place to discover and watch content beyond anime, with fast streaming and downloads built into the experience.
+
+**One app. Two worlds. One premium experience.**
 
 </div>
 
-## ✦ What is Aniverse?
+---
 
-Aniverse is designed around a modern OTT-style experience: fast discovery, clean dark UI, expressive motion, detailed content pages, smooth playback, and features that keep your watch history connected across the app.
+## ✦ 2.2.0 — WHAT'S NEW
 
-It brings **anime discovery, online playback, subtitles, manga, downloads, live channels, profiles, community, Watch Together, and now a dedicated Everything section** into one Android experience.
+<table>
+<tr>
+<td width="50%">
 
-## ✦ What's New in 2.2.0?
+### 🎬 **EVERYTHING**
 
-### 🎬 Watch More Than Anime
+A completely separate section for content beyond anime.
 
-Aniverse now has a **completely separate section to watch additional content** beyond anime. Browse and watch supported movies, shows, and other available content without mixing it into the anime experience.
+Browse, discover and watch supported **movies, shows and more** without mixing the experience with your anime library.
 
-### ⚡ High-Speed Streaming
+</td>
+<td width="50%">
 
-The new content section is built for a fast playback experience with optimized streaming and quick content loading where supported.
+### ⚡ **HIGH-SPEED STREAMING**
 
-### ⬇️ High-Speed Downloads
+Fast playback, optimized loading and a smooth viewing experience for supported content.
 
-Download supported content for offline viewing with the expanded download experience.
+Built to get you from **tap → play** with as little friction as possible.
 
-### 🌌 One App, Bigger Library
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-Anime remains at the heart of Aniverse, while the new section gives you a separate place to discover and watch everything else.
+### ⬇️ **HIGH-SPEED DOWNLOADS**
 
-## ✦ Features
+Save supported content for offline viewing with the expanded download experience.
 
-### 🎬 Watch Anime
+Your library. Your downloads. Your time.
 
-- Original, dubbed, subtitle, and multi-audio playback.
-- Trending, top, new, movie, schedule, and recommendation sections.
-- Continue Watching remembers episode, timestamp, poster, season, and progress.
-- Smart stream fallback for failed or slow playback.
-- Supports very long episode lists with hundreds or thousands of episodes.
+</td>
+<td width="50%">
 
-### 🍿 Everything Section
+### 🌌 **ANIVERSE, EXPANDED**
 
-- Separate section for non-anime content.
-- Dedicated browsing and playback experience.
-- High-speed streaming for supported content.
-- High-speed downloads for supported content.
+Anime remains at the heart of Aniverse — but now there is an entire world beyond it.
 
-### 📡 Live Channels
+**More content. More ways to watch. More Aniverse.**
 
-- Watch supported live channels directly inside Aniverse.
-- Optimized metadata flow for channel information.
-- Smooth animations when channel metadata changes.
-- Channel playback and metadata updates are integrated into the latest release flow.
+</td>
+</tr>
+</table>
 
-### 🎧 CinePlayer
-
-- Subtitle and quality selection.
-- Audio-language preferences.
-- Gestures, fullscreen, casting, picture-in-picture, and offline playback.
-- Remembers server, subtitle, audio language, playback speed, and quality preferences.
-- AniSkip intro/outro highlighting and optional automatic skipping.
-- Handles embedded, uploaded, online, and captured subtitle tracks.
-
-### 📖 Manga Reader
-
-- Manga home, search, details, bookmarks, and Continue Reading.
-- Resume from the exact chapter and page.
-- Tap zones, chapter sorting, swipe mode, page jump, and local caching.
-- Optimized for long manga and manhwa chapters.
-
-### ⬇️ Downloads & Offline
-
-- Downloaded videos and local files through the offline player.
-- Local playback history with timestamps.
-- Downloaded episodes integrated into the library experience.
-
-### 👥 Community & Accounts
-
-- Supabase-backed profiles, watchlists, history, comments, and community features.
-- Anime and manga watchlist sections.
-- Chat, reactions, replies, profile pictures, moderation, and media handling.
-- Watch Together rooms with synchronized viewing and chat.
-
-### 📱 Android & TV UI
-
-- Sidebar navigation for larger screens and TV-style layouts.
-- Bottom navigation for phones.
-- Theme customization, refresh-rate preferences, reduced motion, and profile personalization.
-
-## ✦ Latest Release
+---
 
 <div align="center">
 
-### `v2.2.0`
-
-**Everything Section · High-Speed Streaming · High-Speed Downloads · More Content**
-
-[**View Release →**](https://github.com/Nyyrox/aniverse-release/releases/latest)
+# ✦ EVERYTHING YOU LOVE. IN ONE PLACE.
 
 </div>
 
-## ✦ Install
+| Experience | Highlights |
+|:---|:---|
+| 🎬 **Anime** | Multi-audio · Dubbed · Subtitles · Continue Watching · Recommendations |
+| 🍿 **Everything** | Movies · Shows · Separate browsing · Fast streaming · Downloads |
+| 📡 **Live** | Live channels · Metadata · Smooth playback · Dynamic updates |
+| 🎧 **CinePlayer** | Quality · Audio · Subtitles · PiP · Gestures · Casting · AniSkip |
+| 📖 **Manga** | Reader · Bookmarks · Resume · Page jump · Swipe mode · Caching |
+| ⬇️ **Offline** | Downloads · Local playback · Progress · Offline library |
+| 👥 **Community** | Profiles · Comments · Chat · Reactions · Replies · Watch Together |
+| 📱 **Android / TV** | Sidebar · TV layouts · Bottom navigation · Themes · Accessibility |
 
-1. Open **[the latest release](https://github.com/Nyyrox/aniverse-release/releases/latest)**.
-2. Download the newest Aniverse APK.
-3. Install it on Android. If prompted, allow installation from your browser or file manager.
-4. Open Aniverse and explore the new **Everything** section.
+---
 
-> **Update system:** Aniverse includes update checking, so older APK versions can notify you when a newer release is available.
+## 🎬 ANIME, REFINED
 
-## ✦ Screenshots
+Aniverse keeps anime at its core with a complete OTT-style discovery and playback experience.
 
-| Home | Hero Banner |
+- **Original, dubbed, subtitle and multi-audio playback**
+- Trending, top, new, movie, schedule and recommendation sections
+- **Continue Watching** with episode, timestamp, season and progress memory
+- Smart stream fallback for supported playback sources
+- Long episode lists with smooth browsing
+- Watchlists, history and personalized profiles
+
+---
+
+## 🍿 THE EVERYTHING EXPERIENCE
+
+> **Anime is the beginning. Everything is what's next.**
+
+The new Everything section is intentionally separated from the anime experience, giving you a clean destination for additional content.
+
+**Discover → choose → stream → download → watch.**
+
+No clutter. No mixing libraries. Just a bigger world inside Aniverse.
+
+---
+
+## 🎧 CINEPLAYER
+
+A player designed around the way you actually watch.
+
+**Playback**
+
+- Quality selection
+- Audio-language preferences
+- Subtitle selection and styling
+- Fullscreen
+- Picture-in-picture
+- Casting
+- Gesture controls
+- Playback speed
+
+**Smart playback**
+
+- Remembers server, quality, audio and subtitle preferences
+- AniSkip intro/outro highlighting
+- Optional automatic skipping
+- Embedded, uploaded, online and captured subtitle tracks
+- Offline playback support
+
+---
+
+## 📖 MANGA READER
+
+A focused reading experience built for long chapters and manhwa.
+
+- Manga home, search and details
+- Bookmarks and Continue Reading
+- Exact chapter + page resume
+- Tap zones and swipe mode
+- Chapter sorting
+- Page jump
+- Local caching
+- Edge-to-edge reading
+
+---
+
+## 📡 LIVE CHANNELS
+
+Watch supported live channels directly inside Aniverse.
+
+- Optimized channel metadata
+- Dynamic metadata updates
+- Smooth UI transitions
+- Integrated channel playback
+
+---
+
+## 👥 COMMUNITY
+
+Aniverse isn't just about watching.
+
+- Profiles and personalization
+- Watchlists and history
+- Comments and replies
+- Reactions
+- Chat
+- Media handling
+- Watch Together rooms with synchronized playback
+
+---
+
+## 📱 BUILT FOR ANDROID
+
+Designed to feel at home on phones, tablets and larger Android screens.
+
+- Clean dark-first interface
+- Sidebar navigation for larger screens
+- Bottom navigation on phones
+- TV-style layouts
+- Theme customization
+- Refresh-rate preferences
+- Reduced-motion options
+- Profile personalization
+
+---
+
+<div align="center">
+
+## ✦ EXPERIENCE ANIVERSE 2.2.0
+
+### **More than anime. More than a player.**
+
+**A bigger library. A smoother experience. A new way to watch.**
+
+<br>
+
+### [ ** DOWNLOAD LATEST APK → ** ](https://github.com/Nyyrox/aniverse-release/releases/latest)
+
+[Releases](https://github.com/Nyyrox/aniverse-release/releases) · [Changelog](CHANGELOG.md) · [Android Source](https://github.com/Nyyrox/aniverse--apk) · [Web Source](https://github.com/Nyyrox/Aniverse)
+
+</div>
+
+---
+
+## 📸 SCREENSHOTS
+
+<div align="center">
+
+| Home | Hero |
 |:---:|:---:|
-| ![Aniverse Home](screenshots/home.jpg) | ![Aniverse Hero Banner](screenshots/hero-banner.jpg) |
+| ![Aniverse Home](screenshots/home.jpg) | ![Aniverse Hero](screenshots/hero-banner.jpg) |
 
 | CinePlayer | Manga Reader |
 |:---:|:---:|
-| ![Aniverse CinePlayer](screenshots/player.jpg) | ![Aniverse Manga Reader](screenshots/manga-reader.jpg) |
+| ![CinePlayer](screenshots/player.jpg) | ![Manga Reader](screenshots/manga-reader.jpg) |
 
 | Browse | Watchlist |
 |:---:|:---:|
-| ![Aniverse Browse](screenshots/browse.jpg) | ![Aniverse Watchlist](screenshots/watchlist.jpg) |
+| ![Browse](screenshots/browse.jpg) | ![Watchlist](screenshots/watchlist.jpg) |
 
 | Profile | Sidebar |
 |:---:|:---:|
-| ![Aniverse Profile](screenshots/profile-v2.jpg) | ![Aniverse Sidebar](screenshots/sidebar.jpg) |
-
-## ✦ Discover Aniverse
-
-<div align="center">
-
-**Watch. Discover. Read. Play.**
-
-[Download APK](https://github.com/Nyyrox/aniverse-release/releases/latest) · [View Changelog](CHANGELOG.md) · [Android Source](https://github.com/Nyyrox/aniverse--apk) · [Web Source](https://github.com/Nyyrox/Aniverse)
+| ![Profile](screenshots/profile-v2.jpg) | ![Sidebar](screenshots/sidebar.jpg) |
 
 </div>
 
-## ✦ Disclaimer
+---
 
-Aniverse is provided as a personal-use Android APK release. Users are responsible for following the laws, rights, and content-provider terms that apply in their region.
+## 📦 INSTALL
+
+1. Open the **[latest release](https://github.com/Nyyrox/aniverse-release/releases/latest)**.
+2. Download the newest APK.
+3. Install it on your Android device.
+4. Open Aniverse and explore **Everything**.
+
+> If Android asks for permission to install from your browser or file manager, allow it and continue the installation.
+
+### 🔄 Built-in Updates
+
+Aniverse includes update checking so older versions can notify you when a newer release becomes available.
+
+---
+
+## 📝 VERSION 2.2.0
+
+| | Details |
+|:---:|:---|
+| **Version** | `2.2.0` |
+| **Platform** | Android |
+| **Focus** | Everything + Streaming + Downloads |
+| **Status** | 🟢 Active |
+
+### 2.2.0 Highlights
+
+- ✦ Completely separate **Everything** section
+- ⚡ High-speed streaming experience
+- ⬇️ High-speed downloads
+- 🎬 Expanded content discovery
+- 🎧 CinePlayer improvements
+- 📱 Refined Android experience
+- ✨ Premium UI and smoother interactions
+
+See the full [**CHANGELOG**](CHANGELOG.md) for release history.
+
+---
+
+<div align="center">
+
+# ✦ ANIVERSE
+
+### **Watch. Discover. Read. Play.**
+
+**Anime was just the beginning.**
+
+<br>
+
+[⭐ Star the project](https://github.com/Nyyrox/aniverse-release) · [⬇️ Get the APK](https://github.com/Nyyrox/aniverse-release/releases/latest) · [📝 Changelog](CHANGELOG.md)
+
+</div>
+
+---
+
+## ⚖️ DISCLAIMER
+
+Aniverse is provided as a personal-use Android APK release. Users are responsible for following applicable laws, rights, licenses, and content-provider terms in their region. Availability of content and playback sources may vary.
+
+<div align="center">
+
+<sub>Made with ✦ for people who love to watch.</sub>
+
+</div>
