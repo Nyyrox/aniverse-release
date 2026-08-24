@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nyyrox.github.io/aniverse-release/sitemap.xml
