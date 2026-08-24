@@ -1,8 +1,14 @@
 <div align="center">
 
+<br>
+
+<img src="https://krqlhesgmafweyvtauwx.supabase.co/storage/v1/object/public/Images%20uploads/file_0000000002e071f49dd11aa52fa52ee1%20(2).png" width="150" alt="Aniverse Logo" />
+
 # ✦ ANIVERSE
 
 ### **Your anime. Your way. Now, so much more.**
+
+✦ &nbsp; **WATCH** &nbsp; · &nbsp; **DISCOVER** &nbsp; · &nbsp; **READ** &nbsp; · &nbsp; **PLAY** &nbsp; ✦
 
 A premium Android streaming experience for **anime, movies, shows, live channels, manga, and more.**
 
@@ -21,6 +27,8 @@ A premium Android streaming experience for **anime, movies, shows, live channels
 
 <br><br>
 
+`✧` &nbsp;&nbsp;&nbsp; `·` &nbsp; `✦` &nbsp;&nbsp; `·` &nbsp; `✧` &nbsp;&nbsp;&nbsp; `·` &nbsp; `✦` &nbsp;&nbsp; `·` &nbsp; `✧`
+
 </div>
 
 ---
@@ -35,9 +43,11 @@ Aniverse 2.2.0 introduces a completely separate **Everything** experience — gi
 
 **One app. Two worlds. One premium experience.**
 
-</div>
+<br>
 
----
+✦ ───────────────────────────── ✦
+
+</div>
 
 ## ✦ 2.2.0 — WHAT'S NEW
 
@@ -90,6 +100,8 @@ Anime remains at the heart of Aniverse — but now there is an entire world beyo
 
 # ✦ EVERYTHING YOU LOVE. IN ONE PLACE.
 
+`◌` `✦` `◌` `✧` `◌` `✦` `◌`
+
 </div>
 
 | Experience | Highlights |
@@ -127,6 +139,12 @@ The new Everything section is intentionally separated from the anime experience,
 **Discover → choose → stream → download → watch.**
 
 No clutter. No mixing libraries. Just a bigger world inside Aniverse.
+
+<div align="center">
+
+`✦` ── `DISCOVER` ── `STREAM` ── `DOWNLOAD` ── `WATCH` ── `✦`
+
+</div>
 
 ---
 
@@ -214,9 +232,13 @@ Designed to feel at home on phones, tablets and larger Android screens.
 
 ## ✦ EXPERIENCE ANIVERSE 2.2.0
 
+<img src="https://krqlhesgmafweyvtauwx.supabase.co/storage/v1/object/public/Images%20uploads/file_0000000002e071f49dd11aa52fa52ee1%20(2).png" width="90" alt="Aniverse" />
+
 ### **More than anime. More than a player.**
 
 **A bigger library. A smoother experience. A new way to watch.**
+
+`✧` &nbsp; `✦` &nbsp; `✧` &nbsp; `✦` &nbsp; `✧`
 
 <br>
 
@@ -297,6 +319,10 @@ See the full [**CHANGELOG**](CHANGELOG.md) for release history.
 ### **Watch. Discover. Read. Play.**
 
 **Anime was just the beginning.**
+
+<br>
+
+`✦` · `✧` · `◌` · `✧` · `✦`
 
 <br>
 
