@@ -4,7 +4,7 @@
 
 ### **Your anime. Your way.**
 
-*A modern Android anime experience built for streaming, discovery, manga, live channels, and more.*
+*An expanded Android streaming experience for anime, movies, shows, live channels, manga, and more.*
 
 <p>
   <a href="https://github.com/Nyyrox/aniverse-release/releases/latest"><img src="https://img.shields.io/github/v/release/Nyyrox/aniverse-release?style=for-the-badge&label=LATEST&color=58A6FF" alt="Latest Release"></a>
@@ -27,24 +27,33 @@
 
 <div align="center">
 
-> **ANIVERSE** is an Android anime streaming app with multi-audio playback, Hindi dubbed anime support, subtitles, manga, schedules, watchlists, downloads, offline playback, live channels, and a custom CinePlayer interface.
+> **ANIVERSE 2.2.0** expands beyond anime with a completely separate section for watching more content, alongside high-speed streaming and downloads.
 
 </div>
 
 ## ✦ What is Aniverse?
 
-Aniverse is designed around a modern OTT-style experience: fast discovery, clean dark UI, expressive motion, detailed anime pages, smooth playback, and features that keep your watch history connected across the app.
+Aniverse is designed around a modern OTT-style experience: fast discovery, clean dark UI, expressive motion, detailed content pages, smooth playback, and features that keep your watch history connected across the app.
 
-It brings **anime discovery, online playback, subtitles, manga, downloads, live channels, profiles, community, and Watch Together** into one Android experience.
+It brings **anime discovery, online playback, subtitles, manga, downloads, live channels, profiles, community, Watch Together, and now a dedicated Everything section** into one Android experience.
 
-## ✦ Quick Links
+## ✦ What's New in 2.2.0?
 
-| | Resource |
-|---|---|
-| 📦 | **[Latest APK Release](https://github.com/Nyyrox/aniverse-release/releases/latest)** |
-| 📝 | **[Full Changelog](CHANGELOG.md)** |
-| 📱 | **[Android APK Source](https://github.com/Nyyrox/aniverse--apk)** |
-| 🌐 | **[Web App Source](https://github.com/Nyyrox/Aniverse)** |
+### 🎬 Watch More Than Anime
+
+Aniverse now has a **completely separate section to watch additional content** beyond anime. Browse and watch supported movies, shows, and other available content without mixing it into the anime experience.
+
+### ⚡ High-Speed Streaming
+
+The new content section is built for a fast playback experience with optimized streaming and quick content loading where supported.
+
+### ⬇️ High-Speed Downloads
+
+Download supported content for offline viewing with the expanded download experience.
+
+### 🌌 One App, Bigger Library
+
+Anime remains at the heart of Aniverse, while the new section gives you a separate place to discover and watch everything else.
 
 ## ✦ Features
 
@@ -55,6 +64,13 @@ It brings **anime discovery, online playback, subtitles, manga, downloads, live 
 - Continue Watching remembers episode, timestamp, poster, season, and progress.
 - Smart stream fallback for failed or slow playback.
 - Supports very long episode lists with hundreds or thousands of episodes.
+
+### 🍿 Everything Section
+
+- Separate section for non-anime content.
+- Dedicated browsing and playback experience.
+- High-speed streaming for supported content.
+- High-speed downloads for supported content.
 
 ### 📡 Live Channels
 
@@ -98,6 +114,27 @@ It brings **anime discovery, online playback, subtitles, manga, downloads, live 
 - Bottom navigation for phones.
 - Theme customization, refresh-rate preferences, reduced motion, and profile personalization.
 
+## ✦ Latest Release
+
+<div align="center">
+
+### `v2.2.0`
+
+**Everything Section · High-Speed Streaming · High-Speed Downloads · More Content**
+
+[**View Release →**](https://github.com/Nyyrox/aniverse-release/releases/latest)
+
+</div>
+
+## ✦ Install
+
+1. Open **[the latest release](https://github.com/Nyyrox/aniverse-release/releases/latest)**.
+2. Download the newest Aniverse APK.
+3. Install it on Android. If prompted, allow installation from your browser or file manager.
+4. Open Aniverse and explore the new **Everything** section.
+
+> **Update system:** Aniverse includes update checking, so older APK versions can notify you when a newer release is available.
+
 ## ✦ Screenshots
 
 | Home | Hero Banner |
@@ -115,53 +152,6 @@ It brings **anime discovery, online playback, subtitles, manga, downloads, live 
 | Profile | Sidebar |
 |:---:|:---:|
 | ![Aniverse Profile](screenshots/profile-v2.jpg) | ![Aniverse Sidebar](screenshots/sidebar.jpg) |
-
-## ✦ Install
-
-1. Open **[the latest release](https://github.com/Nyyrox/aniverse-release/releases/latest)**.
-2. Download the newest Aniverse APK.
-3. Install it on Android. If prompted, allow installation from your browser or file manager.
-4. Open Aniverse and sign in to sync profile, watchlist, comments, and watch history.
-
-> **Update system:** Aniverse includes update checking, so older APK versions can notify you when a newer release is available.
-
-## ✦ Latest Release
-
-<div align="center">
-
-### `v2.1.1`
-
-**Live Channels · Optimized Metadata · Smoother Motion · Bug Fixes**
-
-[**View Release →**](https://github.com/Nyyrox/aniverse-release/releases/latest)
-
-</div>
-
-## ✦ FAQ
-
-### Is Aniverse an app to watch anime online?
-
-Yes. Aniverse is an Android APK for watching anime online with multi-audio streams, subtitles, watch history, anime schedules, manga, live channels, and a custom anime player.
-
-### Does Aniverse support Hindi dubbed anime?
-
-Aniverse includes multi-audio and dubbed source support where streams are available, including Hindi and other languages depending on provider availability.
-
-### Does Aniverse save watch progress?
-
-Yes. Continue Watching stores anime episode progress and manga reading progress. Logged-in users can sync more profile data through Supabase-backed tables.
-
-### Does Aniverse support subtitles?
-
-Yes. CinePlayer supports online subtitles, uploaded subtitles, embedded subtitle tracks, captured subtitle tracks, subtitle styling, and language preferences.
-
-### Does Aniverse include manga?
-
-Yes. Aniverse includes manga browsing, search, details, bookmarks, Continue Reading, and a customizable manga reader.
-
-### Can Aniverse work on larger Android screens?
-
-Yes. Aniverse includes sidebar navigation and TV-style layout handling for larger screens, tablets, and Android devices used with remote-style navigation.
 
 ## ✦ Discover Aniverse
 
