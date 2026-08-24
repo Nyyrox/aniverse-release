@@ -21,10 +21,16 @@ A premium Android streaming experience for **anime, movies, shows, live channels
 
 <br>
 
-[![Latest Release](https://img.shields.io/github/v/release/Nyyrox/aniverse-release?style=for-the-badge&label=LATEST&color=58A6FF)](https://github.com/Nyyrox/aniverse-release/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Nyyrox/aniverse-release/total?style=for-the-badge&label=DOWNLOADS&color=8B5CF6)](https://github.com/Nyyrox/aniverse-release/releases)
-[![Stars](https://img.shields.io/github/stars/Nyyrox/aniverse-release?style=for-the-badge&color=F59E0B)](https://github.com/Nyyrox/aniverse-release/stargazers)
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge)](https://github.com/Nyyrox/aniverse-release)
+[![Version](https://img.shields.io/badge/VERSION-2.2.0-58A6FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Nyyrox/aniverse-release/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Nyyrox/aniverse-release/total?style=for-the-badge&label=DOWNLOADS&color=8B5CF6&logo=github)](https://github.com/Nyyrox/aniverse-release/releases)
+[![Stars](https://img.shields.io/github/stars/Nyyrox/aniverse-release?style=for-the-badge&label=STARS&color=F59E0B&logo=github)](https://github.com/Nyyrox/aniverse-release/stargazers)
+[![Release](https://img.shields.io/github/release-date/Nyyrox/aniverse-release?style=for-the-badge&label=RELEASED&color=22C55E&logo=github)](https://github.com/Nyyrox/aniverse-release/releases/latest)
+
+<br>
+
+[![Telegram](https://img.shields.io/badge/TELEGRAM-STREAMVERSE-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StreamVerseofc)
+[![Discord](https://img.shields.io/badge/DISCORD-COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uwYUcVYWd)
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/Nyyrox/aniverse-release)
 
 <br>
 
@@ -208,6 +214,24 @@ Watch supported live channels directly inside Aniverse.
 
 ## 👥 COMMUNITY
 
+<div align="center">
+
+### **JOIN THE ANIVERSE COMMUNITY**
+
+Connect with other viewers, get announcements, share feedback, discover updates and stay close to the project.
+
+<br>
+
+[![Telegram](https://img.shields.io/badge/✦%20TELEGRAM-StreamVerse%20Official-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StreamVerseofc)
+&nbsp;
+[![Discord](https://img.shields.io/badge/✦%20DISCORD-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uwYUcVYWd)
+
+<br><br>
+
+**Announcements · Updates · Community · Support**
+
+</div>
+
 Aniverse isn't just about watching.
 
 - Profiles and personalization
@@ -250,6 +274,11 @@ Designed to feel at home on phones, tablets and larger Android screens.
 ### [ ** DOWNLOAD LATEST APK → ** ](https://github.com/Nyyrox/aniverse-release/releases/latest)
 
 [Releases](https://github.com/Nyyrox/aniverse-release/releases) · [Changelog](CHANGELOG.md) · [Android Source](https://github.com/Nyyrox/aniverse--apk) · [Web Source](https://github.com/Nyyrox/Aniverse)
+
+<br><br>
+
+[![Telegram](https://img.shields.io/badge/Telegram-StreamVerse-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/StreamVerseofc)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/uwYUcVYWd)
 
 </div>
 
@@ -332,6 +361,11 @@ See the full [**CHANGELOG**](CHANGELOG.md) for release history.
 <br>
 
 [⭐ Star the project](https://github.com/Nyyrox/aniverse-release) · [⬇️ Get the APK](https://github.com/Nyyrox/aniverse-release/releases/latest) · [📝 Changelog](CHANGELOG.md)
+
+<br><br>
+
+[![Telegram](https://img.shields.io/badge/Join%20Telegram-StreamVerse-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StreamVerseofc)
+[![Discord](https://img.shields.io/badge/Join%20Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uwYUcVYWd)
 
 </div>
 
