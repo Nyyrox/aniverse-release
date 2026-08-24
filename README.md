@@ -122,7 +122,7 @@ Anime remains at the heart of Aniverse — but now there is an entire world beyo
 | 🎬 **Anime** | Multi-audio · Dubbed · Subtitles · Continue Watching · Recommendations |
 | 🍿 **Everything** | Movies · Shows · Separate browsing · Fast streaming · Downloads |
 | 📡 **Live** | Live channels · Metadata · Smooth playback · Dynamic updates |
-| 🎧 **CinePlayer** | Quality · Audio · Subtitles · PiP · Gestures · Casting · AniSkip |
+| 🎧 **CinePlayer** | Quality · Audio · Advanced subtitle sync · Custom fonts · PiP · Gestures · Casting · AniSkip |
 | 📖 **Manga** | Reader · Bookmarks · Resume · Page jump · Swipe mode · Caching |
 | ⬇️ **Offline** | Downloads · Local playback · Progress · Offline library |
 | 👥 **Community** | Profiles · Comments · Chat · Reactions · Replies · Watch Together |
@@ -163,9 +163,25 @@ No clutter. No mixing libraries. Just a bigger world inside Aniverse.
 
 ## 🎧 CINEPLAYER
 
-A player designed around the way you actually watch.
+A player designed around the way you actually watch — with a major focus on **subtitle accuracy, readability and personalization**.
 
-**Playback**
+### 💬 Advanced Subtitle Sync
+
+- **Dialogue-wise synchronization** for more accurate subtitle timing
+- Improved subtitle timing and alignment with spoken dialogue
+- **Search by dialogue** to find the matching subtitle line and sync it to the current playback position
+- Fine-grained subtitle timing controls for correcting early/late lines
+- Better handling of subtitle timing across different streams and sources
+
+### 🎨 Subtitle Customization
+
+- Multiple **subtitle fonts**
+- Custom font selection and styling
+- Text size and appearance controls
+- Subtitle positioning and readability customization
+- More control over how subtitles look during playback
+
+### ▶️ Playback
 
 - Quality selection
 - Audio-language preferences
@@ -176,13 +192,15 @@ A player designed around the way you actually watch.
 - Gesture controls
 - Playback speed
 
-**Smart playback**
+### 🧠 Smart Playback
 
 - Remembers server, quality, audio and subtitle preferences
 - AniSkip intro/outro highlighting
 - Optional automatic skipping
 - Embedded, uploaded, online and captured subtitle tracks
 - Offline playback support
+
+> **Watch the scene. Find the dialogue. Sync the subtitle. Keep watching.**
 
 ---
 
@@ -330,7 +348,7 @@ Aniverse includes update checking so older versions can notify you when a newer 
 |:---:|:---|
 | **Version** | [`v2.2.0`](https://github.com/Nyyrox/aniverse-release/releases/tag/v2.2.0) |
 | **Platform** | Android |
-| **Focus** | Everything + Streaming + Downloads |
+| **Focus** | Everything + Streaming + Downloads + Advanced Subtitles |
 | **Status** | 🟢 Active |
 
 ### 2.2.0 Highlights
@@ -338,6 +356,9 @@ Aniverse includes update checking so older versions can notify you when a newer 
 - ✦ Completely separate **Everything** section
 - ⚡ High-speed streaming experience
 - ⬇️ High-speed downloads
+- 💬 **Dialogue-wise subtitle synchronization**
+- 🔎 **Search dialogue to find and sync subtitle lines**
+- 🎨 More subtitle customization and font options
 - 🎬 Expanded content discovery
 - 🎧 CinePlayer improvements
 - 📱 Refined Android experience
