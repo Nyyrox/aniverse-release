@@ -21,26 +21,22 @@ A premium Android streaming experience for **anime, movies, shows, live channels
 
 <br>
 
-<table>
-<tr>
-<td align="center"><a href="https://github.com/Nyyrox/aniverse-release/releases/tag/v2.2.0"><b>🏷️ VERSION</b><br><code>v2.2.0</code></a></td>
-<td align="center"><a href="https://github.com/Nyyrox/aniverse-release/releases"><b>⬇️ DOWNLOADS</b><br><code>GitHub Releases</code></a></td>
-<td align="center"><a href="https://github.com/Nyyrox/aniverse-release/stargazers"><b>⭐ STARS</b><br><code>Star on GitHub</code></a></td>
-<td align="center"><a href="https://github.com/Nyyrox/aniverse-release/releases/latest"><b>🚀 RELEASE</b><br><code>Latest</code></a></td>
-</tr>
-</table>
+[![Version](https://img.shields.io/badge/VERSION-v2.2.0-58A6FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Nyyrox/aniverse-release/releases/tag/v2.2.0)
+[![Downloads](https://img.shields.io/github/downloads/Nyyrox/aniverse-release/total?style=for-the-badge&label=DOWNLOADS&color=8B5CF6)](https://github.com/Nyyrox/aniverse-release/releases)
+[![Stars](https://img.shields.io/github/stars/Nyyrox/aniverse-release?style=for-the-badge&label=STARS&color=F59E0B)](https://github.com/Nyyrox/aniverse-release/stargazers)
+[![Release](https://img.shields.io/github/release-date/Nyyrox/aniverse-release?style=for-the-badge&label=RELEASED&color=22C55E)](https://github.com/Nyyrox/aniverse-release/releases/latest)
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge)](https://github.com/Nyyrox/aniverse-release)
 
 <br>
 
-<a href="https://t.me/StreamVerseofc"><b>✈️ TELEGRAM</b> · StreamVerse Official</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://discord.gg/uwYUcVYWd"><b>💬 DISCORD</b> · Community</a>
+[![Telegram](https://img.shields.io/badge/TELEGRAM-STREAMVERSE-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StreamVerseofc)
+[![Discord](https://img.shields.io/badge/DISCORD-COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uwYUcVYWd)
 
 <br><br>
 
 ### **[ ↓  DOWNLOAD ANIVERSE 2.2.0  ](https://github.com/Nyyrox/aniverse-release/releases/latest)**
 
-<code>LATEST</code> &nbsp; <code>v2.2.0</code> &nbsp; <code>ANDROID</code> &nbsp; <code>ACTIVE</code>
+`LATEST • v2.2.0 • ANDROID • ACTIVE`
 
 <br><br>
 
@@ -226,13 +222,12 @@ Connect with other viewers, get announcements, share feedback, discover updates 
 
 <br>
 
-<a href="https://t.me/StreamVerseofc"><b>✈️ TELEGRAM</b><br>StreamVerse Official</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/uwYUcVYWd"><b>💬 DISCORD</b><br>Join the Community</a>
+[![Telegram](https://img.shields.io/badge/✦%20TELEGRAM-StreamVerse%20Official-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StreamVerseofc)
+[![Discord](https://img.shields.io/badge/✦%20DISCORD-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uwYUcVYWd)
 
 <br><br>
 
-<code>ANNOUNCEMENTS</code> · <code>UPDATES</code> · <code>COMMUNITY</code> · <code>SUPPORT</code>
+`ANNOUNCEMENTS` · `UPDATES` · `COMMUNITY` · `SUPPORT`
 
 </div>
 
@@ -277,19 +272,14 @@ Designed to feel at home on phones, tablets and larger Android screens.
 
 ### [ ** DOWNLOAD LATEST APK → ** ](https://github.com/Nyyrox/aniverse-release/releases/latest)
 
-<a href="https://github.com/Nyyrox/aniverse-release/releases/tag/v2.2.0"><code>v2.2.0 RELEASE</code></a>
-&nbsp; · &nbsp;
-<a href="CHANGELOG.md">Changelog</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Nyyrox/aniverse--apk">Android Source</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Nyyrox/Aniverse">Web Source</a>
+[![v2.2.0](https://img.shields.io/badge/v2.2.0-RELEASE-58A6FF?style=for-the-badge)](https://github.com/Nyyrox/aniverse-release/releases/tag/v2.2.0)
+
+[Changelog](CHANGELOG.md) · [Android Source](https://github.com/Nyyrox/aniverse--apk) · [Web Source](https://github.com/Nyyrox/Aniverse)
 
 <br><br>
 
-<a href="https://t.me/StreamVerseofc"><b>✈️ Telegram</b> · StreamVerse</a>
-&nbsp; · &nbsp;
-<a href="https://discord.gg/uwYUcVYWd"><b>💬 Discord</b> · Community</a>
+[![Telegram](https://img.shields.io/badge/Telegram-StreamVerse-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/StreamVerseofc)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/uwYUcVYWd)
 
 </div>
 
@@ -371,17 +361,12 @@ See the full [**CHANGELOG**](CHANGELOG.md) for release history.
 
 <br>
 
-<a href="https://github.com/Nyyrox/aniverse-release"><b>⭐ Star the project</b></a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Nyyrox/aniverse-release/releases/latest"><b>⬇️ Get the APK</b></a>
-&nbsp; · &nbsp;
-<a href="CHANGELOG.md"><b>📝 Changelog</b></a>
+[⭐ Star the project](https://github.com/Nyyrox/aniverse-release) · [⬇️ Get the APK](https://github.com/Nyyrox/aniverse-release/releases/latest) · [📝 Changelog](CHANGELOG.md)
 
 <br><br>
 
-<a href="https://t.me/StreamVerseofc"><b>✈️ Join Telegram</b></a>
-&nbsp; · &nbsp;
-<a href="https://discord.gg/uwYUcVYWd"><b>💬 Join Discord</b></a>
+[![Telegram](https://img.shields.io/badge/Join%20Telegram-StreamVerse-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StreamVerseofc)
+[![Discord](https://img.shields.io/badge/Join%20Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uwYUcVYWd)
 
 </div>
 
