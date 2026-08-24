@@ -2,9 +2,16 @@
 
 <br>
 
-<img src="https://krqlhesgmafweyvtauwx.supabase.co/storage/v1/object/public/Images%20uploads/file_0000000002e071f49dd11aa52fa52ee1%20(2).png" width="150" alt="Aniverse Logo" />
-
-# ✦ ANIVERSE
+<table>
+<tr>
+<td valign="middle" width="58">
+<img src="https://krqlhesgmafweyvtauwx.supabase.co/storage/v1/object/public/Images%20uploads/file_0000000002e071f49dd11aa52fa52ee1%20(2).png" width="52" alt="Aniverse Logo" />
+</td>
+<td valign="middle" align="left">
+<h1>ANIVERSE</h1>
+</td>
+</tr>
+</table>
 
 ### **Your anime. Your way. Now, so much more.**
 
@@ -59,7 +66,7 @@ Aniverse 2.2.0 introduces a completely separate **Everything** experience — gi
 
 A completely separate section for content beyond anime.
 
-Browse, discover and watch supported **movies, shows and more** without mixing the experience with your anime library.
+Browse, discover and watch supported **movies, shows and more** without mixing it into your anime library.
 
 </td>
 <td width="50%">
@@ -231,8 +238,6 @@ Designed to feel at home on phones, tablets and larger Android screens.
 <div align="center">
 
 ## ✦ EXPERIENCE ANIVERSE 2.2.0
-
-<img src="https://krqlhesgmafweyvtauwx.supabase.co/storage/v1/object/public/Images%20uploads/file_0000000002e071f49dd11aa52fa52ee1%20(2).png" width="90" alt="Aniverse" />
 
 ### **More than anime. More than a player.**
 
