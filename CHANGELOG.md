@@ -1,6 +1,22 @@
 # Aniverse Changelog
 
-All notable Aniverse APK changes are documented here. This changelog also helps users discover Aniverse when searching for watch anime online, Aniverse anime, anime streaming APK, multi-audio anime app, Hindi dubbed anime app, manga reader APK, and Android anime player with subtitles.
+All notable Aniverse APK changes are documented here.
+
+## 2.2.0 - 2026-08-24
+
+### Added
+
+- Added a completely separate **Everything** section beyond anime.
+- Added support for watching additional content from the new dedicated section.
+- Added high-speed streaming for the new content section.
+- Added high-speed downloads for supported content.
+- Expanded Aniverse from an anime-focused experience into a broader watch-anything platform while keeping anime features intact.
+
+### Improved
+
+- Improved content discovery and navigation between anime and the new Everything section.
+- Improved streaming and download experience for supported content.
+- Refined the overall app experience across the expanded content library.
 
 ## 2.1.1 - 2026-08-21
 
@@ -19,10 +35,6 @@ All notable Aniverse APK changes are documented here. This changelog also helps 
 
 - Fixed several issues discovered while integrating live channels and the updated metadata flow.
 - Improved stability around metadata updates and related UI changes.
-
-### Note
-
-- This release contains several changes under the hood, so minor bugs may still occur in some edge cases. Additional fixes can be shipped in future updates based on testing and user reports.
 
 ## 1.1.8 - 2026-08-03
 
@@ -140,7 +152,3 @@ All notable Aniverse APK changes are documented here. This changelog also helps 
 - TMDB and AniList episode integration.
 - Filler episode markers.
 - Dark themed anime streaming UI.
-
-## SEO Summary
-
-Aniverse is an Android APK for watching anime online, discovering anime, reading manga, tracking anime schedules, saving watchlists, continuing anime episodes, and using a custom video player with subtitles. This project is relevant to searches for Aniverse anime, anime streaming APK, multi-audio anime app, Hindi dubbed anime app, manga reader APK, anime schedule app, anime watchlist app, and CinePlayer anime player.
