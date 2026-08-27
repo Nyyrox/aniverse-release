@@ -1,24 +1,29 @@
-# Aniverse — Discontinued
+# ✦ Aniverse — Project Discontinued
 
-> **Aniverse has been permanently discontinued.**
+> **Aniverse has officially been discontinued.**
 
-The project is no longer maintained, and no new APK releases, updates, bug fixes, or support will be provided.
+After a lot of work, updates, and changes over the course of the project, I’ve decided to step away from Aniverse and stop development.
 
-Thank you to everyone who used Aniverse, contributed feedback, supported the project, and helped it reach the community it did. ❤️
+Maintaining the app, services, updates, and everything around the project had become too much to keep doing as a free project. Rather than continue with something I can no longer give the time and attention it deserves, I’ve decided to close this chapter and move on to something new.
 
-## Status
+A huge **thank you** to everyone who used Aniverse, shared feedback, reported bugs, supported the project, or simply stayed around. ❤️ Seeing the community grow and reaching **500+ supporters/subscribers** was something I genuinely appreciated.
 
-**🔴 DISCONTINUED**
+This isn't the end of creating things — it’s just the end of Aniverse. The experience and everything learned while building it will carry forward into whatever comes next.
 
-- Development: stopped
-- Maintenance: stopped
-- New releases: stopped
-- Support: stopped
+## 📌 Current Status
 
-This repository is kept as an archive of the project.
+**🔴 DISCONTINUED — NO LONGER MAINTAINED**
 
----
+- Development has stopped
+- No new APK releases will be published
+- No new features or bug fixes will be added
+- Official support has ended
+- This repository is being kept as an archive of the project
 
-## ⚠️ Important
+## 🗃️ About the Archive
 
-Any existing releases or files in this repository are provided as historical project artifacts. The project is no longer operated or maintained by the developer.
+The repository and its existing files are preserved as a record of Aniverse and its development. Existing releases may remain available as historical artifacts, but **they should not be considered supported or actively maintained versions**.
+
+Thank you for being part of the Aniverse journey. 🫶🏻
+
+**— Aniverse**
