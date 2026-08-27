@@ -6,7 +6,7 @@ After a lot of work, updates, and changes over the course of the project, I’ve
 
 Maintaining the app, services, updates, and everything around the project had become too much to keep doing as a free project. Rather than continue with something I can no longer give the time and attention it deserves, I’ve decided to close this chapter and move on to something new.
 
-A huge **thank you** to everyone who used Aniverse, shared feedback, reported bugs, supported the project, or simply stayed around. ❤️ Seeing the community grow and reaching **500+ supporters/subscribers** was something I genuinely appreciated.
+A huge **thank you** to everyone who used Aniverse, shared feedback, reported bugs, supported the project, or simply stayed around. ❤️ The support and the community around Aniverse genuinely meant a lot to me.
 
 This isn't the end of creating things — it’s just the end of Aniverse. The experience and everything learned while building it will carry forward into whatever comes next.
 
