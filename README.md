@@ -1,29 +1,25 @@
-# ✦ Aniverse — Project Discontinued
+# ✦ Aniverse — Delayed Updates
 
-> **Aniverse has officially been discontinued.**
+> **Aniverse is still here — updates are currently delayed.**
 
-After a lot of work, updates, and changes over the course of the project, I’ve decided to step away from Aniverse and stop development.
+Aniverse is an ongoing project. Development and maintenance are continuing, but updates may take longer than usual while work is being handled behind the scenes.
 
-Maintaining the app, services, updates, and everything around the project had become too much to keep doing as a free project. Rather than continue with something I can no longer give the time and attention it deserves, I’ve decided to close this chapter and move on to something new.
-
-A huge **thank you** to everyone who used Aniverse, shared feedback, reported bugs, supported the project, or simply stayed around. ❤️ The support and the community around Aniverse genuinely meant a lot to me.
-
-This isn't the end of creating things — it’s just the end of Aniverse. The experience and everything learned while building it will carry forward into whatever comes next.
+Thank you to everyone using Aniverse, sharing feedback, reporting bugs, and sticking around. ❤️
 
 ## 📌 Current Status
 
-**🔴 DISCONTINUED — NO LONGER MAINTAINED**
+**🟡 UPDATES DELAYED — DEVELOPMENT CONTINUES**
 
-- Development has stopped
-- No new APK releases will be published
-- No new features or bug fixes will be added
-- Official support has ended
-- This repository is being kept as an archive of the project
+- Development is still ongoing
+- New APK releases may take longer than usual
+- Features and bug fixes are still being worked on
+- Some updates may arrive later than expected
+- Existing releases remain available
 
-## 🗃️ About the Archive
+## ✨ What's Next
 
-The repository and its existing files are preserved as a record of Aniverse and its development. Existing releases may remain available as historical artifacts, but **they should not be considered supported or actively maintained versions**.
+More improvements, fixes, and updates are planned. There may be periods of limited activity, but Aniverse has **not been discontinued**.
 
-Thank you for being part of the Aniverse journey. 🫶🏻
+Thanks for your patience and support. 🫶🏻
 
 **— Aniverse**
